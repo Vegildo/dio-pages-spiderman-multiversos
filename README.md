@@ -3,12 +3,12 @@
 ## 👋 Bem-vindo(a)
 Olá, meu nome é Leonardo Braga. E esse é o desafio para o bootcamp da RiHappy + DIO, para Front-End.
 
-## 🎉 Awesome Spiedr-Man Page
+## 🎉 Awesome Spider-Man Pages
 
 ![Homem-Aranha](assets/images/readme/wallaper___amazing_spider_man_2_back__movie__logo_by_kalangozilla_d73z1pw.jpg)
 
 
-Bem-vindo a **Página Multiverso Homem-Aranha**! Neste repositório, você encontrará uma página divertida baseado nos famosos filmes da franquia "Spider-Man". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de páginas com JavaScript.
+Bem-vindo as **Páginas Multiverso Homem-Aranha**! Neste repositório, você encontrará algumas páginas divertidas baseado nos famosos filmes da franquia "Spider-Man". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de páginas com JavaScript.
 
 ### 💻 Tecnologias Utilizadas
 
@@ -35,7 +35,7 @@ Bem-vindo a **Página Multiverso Homem-Aranha**! Neste repositório, você encon
 
 ### 🔍 Créditos
 
-Esta página foi desenvolvido, por Leonardo Braga, como parte de um projeto educacional da Digital Innovation One.
+Estas páginas foram desenvolvidas, por Leonardo Braga, como parte de um projeto educacional da Digital Innovation One.
 
 ---
 
